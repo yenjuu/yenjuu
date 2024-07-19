@@ -9,7 +9,7 @@
   <a href="mailto:ariel7234@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/ariel7234">
+  <a href="https://www.linkedin.com/in/ariel7234" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!-- <a href="https://drive.google.com/file/d/1C67Fx0cf7C64SwN_icbT_la8joOQ8365/view?usp=share_link" target="_blank">
